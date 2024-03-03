@@ -31,9 +31,7 @@ def question_ans_ai(question):
     # Get answer
     res = nlp(QA_input)
 
-    print("Using pipeline:")
     print(f"Answer: {res['answer']}")
-    print(f"Score: {res['score']}")
     print("----------")
     return [res['answer'],question]
 
