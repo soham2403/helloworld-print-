@@ -16,6 +16,9 @@
 
 # Doubt Solver
 
+## Description
+- This is the roberta-base model, fine-tuned using the SQuAD2.0 dataset. It's been trained on question-answer pairs, including unanswerable questions, for the task of Question Answering.
+
 ## Overview
 
 - **Language model:** roberta-base
