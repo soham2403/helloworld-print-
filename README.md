@@ -6,7 +6,7 @@
   - *Project Manager*
 
 - **Soham More**
-  - **Frontend Developer*
+  - *Fullstack Developer*
 
 - **Adarsh Pandey**
   - *AI Specialist*
