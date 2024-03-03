@@ -1,0 +1,46 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "This alternate \nending\u2014Don Giovanni is suddenly cast down to ________, and instead of being redeemed, the hero emerges from the \nunderworld chastened, and the curtain falls\u2014was interpreted by the critics of the day as heavy-handed didacticism.",
+        "options": [
+            {
+                "option_letter": "a",
+                "option_text": "Hell"
+            },
+            {
+                "option_letter": "b",
+                "option_text": "Annwfn"
+            },
+            {
+                "option_letter": "c",
+                "option_text": "Asgard"
+            },
+            {
+                "option_letter": "d",
+                "option_text": "Afterworld"
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "question_text": "In that case the fate of ________ \nGiovanni can best be answered by the fact that Mozart\u2014through debts, ill-health, and the composer\u2019s obligation to \ncompose works for his patrons \u2013was unable to return to a work he had tabled.",
+        "options": [
+            {
+                "option_letter": "a",
+                "option_text": "Don"
+            },
+            {
+                "option_letter": "b",
+                "option_text": "Catechist"
+            },
+            {
+                "option_letter": "c",
+                "option_text": "Bahai"
+            },
+            {
+                "option_letter": "d",
+                "option_text": "Art Teacher"
+            }
+        ]
+    }
+]
